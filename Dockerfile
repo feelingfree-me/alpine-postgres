@@ -1,5 +1,5 @@
 FROM alpine:3.4
-MAINTAINER feelingfree-me
+MAINTAINER feelingfree-me <feelingfree.co.nr@gmail.com>
 
 ADD https://github.com/tianon/gosu/releases/download/1.9/gosu-amd64 /usr/local/bin/gosu
 
